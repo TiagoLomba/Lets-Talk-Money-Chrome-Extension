@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function(){
     const convert = document.getElementById('convert')
     const result = document.getElementById('result')
 
-    // INSERT YOUR API KEY FROM API NINJAS HERE https://api-ninjas.com/api/exchangerate
+    // INSERT YOUR API KEY FROM API NINJAS HERE (Can be found here https://api-ninjas.com/profile)
     const API_KEY="YOUR_API_KEY!"
     const apiUrl="https://api.api-ninjas.com/v1/convertcurrency?have="
 
