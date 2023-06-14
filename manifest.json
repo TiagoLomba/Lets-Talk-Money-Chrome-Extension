@@ -1,0 +1,12 @@
+{
+    "name": "Let's Talk Money",
+    "version": "1.0.0",
+    "description": "This is an extension to convert currencies quickly",
+    "manifest_version": 3,
+    "author": "Tiago Lomba",
+    "action": {
+        "default_icon": "icon.png",
+        "default_popup": "index.html",
+        "default_title": "Let's Talk Money"
+    }
+}

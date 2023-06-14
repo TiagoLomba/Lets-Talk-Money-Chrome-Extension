@@ -1,0 +1,22 @@
+.container {
+    padding: 20px;
+    min-width: 250px;
+    max-width: 600px;
+}
+
+/* Button customization */
+.btn {
+    width: 150px;
+}
+
+button:focus {
+    outline: none;
+}
+
+.btn-dark:hover{
+    filter:brightness(85%);
+}
+
+.btn-dark {
+    transition: filter 0.3s ease;
+}
