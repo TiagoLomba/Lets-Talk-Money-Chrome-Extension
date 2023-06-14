@@ -1,6 +1,6 @@
 ## Lets Talk Money
 
-This is a simple and clean Chrome Extension that let's you convert up to 20 different most used currencies!
+#### This is a simple and clean Chrome Extension that let's you convert up to 20 different most used currencies!
 
 - Register/Login in API Ninjas 
 - Go to "My Account" and copy your API KEY
@@ -38,7 +38,7 @@ Currencies
 - SEK (Swedish Krona)
 - SGD (Singapore Dollar)
 - TRY (Turkish Lira)
---
+
 
 
 ## Screenshots
